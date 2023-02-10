@@ -8,7 +8,7 @@ How to reach me:
 <a href="https://www.linkedin.com/in/jeferson-f-oliveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 <br/>
-⚡ Tools and Technologies and Design:
+⚡ Tools, Technologies and Design:
 <div style="display: inline flex"><br>
 <img align="center" alt="JS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="center" alt="HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
